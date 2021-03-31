@@ -1,0 +1,23 @@
+html {
+	background: url("assets/crack1.png");
+	background-repeat: repeat;
+	/* padding-bottom: 500px; */
+	background-size: 200px;
+}
+
+body {
+	background: white;
+	width: 800px;
+	margin: 100px auto 200px auto;
+	text-align: center;
+	color: white;
+	font-size: 24;
+}
+
+a {
+	color: red;
+}
+
+.headings {
+	color: red;
+}
