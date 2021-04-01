@@ -7,14 +7,16 @@ html {
 
 body {
 	background: black;
-	width: 1000px;
+	width: 80%;
 	margin: 200px auto 200px auto;
 	color: white;
 	text-align: left;
-	font-size: 24;
 	border-radius: 50px;
 	font-family: coolhandpk;
-	font-size: 200%;
+	font-size: 24;
+	font-size: 150%;
+	letter-spacing: 3px;
+	padding: 0px;
 }
 
 p {
@@ -34,8 +36,8 @@ a {
 
 @font-face {
     font-family: 'coolhandpk';
-    src: url('font/coolhandpk2.woff2') format('woff2'),
-        url('font/coolhandpk2.woff') format('woff');
+    src: url('font/coolhandpk3.woff2') format('woff2'),
+        url('font/coolhandpk3.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
