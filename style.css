@@ -34,3 +34,19 @@ a {
 	text-align: center;
 	color: white;
 }
+
+.button {
+  width:150px;
+  height:100px;
+  border-radius: 12px;
+  display:block;
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
