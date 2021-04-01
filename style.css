@@ -2,7 +2,7 @@ html {
 	background: url("assets/crack1.png");
 	background-repeat: repeat;
 	/* padding-bottom: 500px; */
-	background-size: 200px;
+	background-size: 500px;
 }
 
 body {
@@ -13,6 +13,8 @@ body {
 	text-align: left;
 	font-size: 24;
 	border-radius: 50px;
+	font-family: coolhandpk;
+	font-size: 200%;
 }
 
 p {
@@ -28,6 +30,15 @@ img {
 
 a {
 	color: gray;
+}
+
+@font-face {
+    font-family: 'coolhandpk';
+    src: url('font/coolhandpk2.woff2') format('woff2'),
+        url('font/coolhandpk2.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 .headings {
