@@ -36,8 +36,8 @@ a {
 
 @font-face {
     font-family: 'coolhandpk';
-    src: url('font/coolhandpk3.woff2') format('woff2'),
-        url('font/coolhandpk3.woff') format('woff');
+    src: url('font/coolhandpk2.woff2') format('woff2'),
+        url('font/coolhandpk2.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
